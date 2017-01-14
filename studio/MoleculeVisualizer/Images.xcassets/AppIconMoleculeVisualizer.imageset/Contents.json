@@ -2,8 +2,8 @@
   "images" : [
     {
       "idiom" : "universal",
-      "scale" : "1x",
-      "filename" : "AppIconMoleculeVisualizer.jpg"
+      "filename" : "AppIconMoleculeVisualizer.jpg",
+      "scale" : "1x"
     },
     {
       "idiom" : "universal",
